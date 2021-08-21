@@ -9,10 +9,15 @@ Project structure:
       *ShopCommom: common library(Entities, roles and users);
       *ShopWebParent:
             *ShopBackEnd(controllers and service and repositories and tests, most files are here, also path of created .log under target folder. );
-            *![backendDir1](https://user-images.githubusercontent.com/56694905/130331234-b5fbe246-e229-44a3-bf46-cd630a2bf362.PNG)
-![projectDir1](https://user-images.githubusercontent.com/56694905/130331238-dab03330-1c99-4ebb-9d27-378023f69967.PNG)
-![backendDir2](https://user-images.githubusercontent.com/56694905/130331239-a7479dc5-bd26-4777-bf7f-f1073b59909d.PNG)
-ShopFrontEnd.
-                          
- ---------------------------------------------------------------------------------                         
+            *ShopFrontEnd.
+             ---------------------------------------------------------------------------------                         
 user uploaded photo is under ShopBackEnd, target folder.
+            
+![projectDir1](https://user-images.githubusercontent.com/56694905/130331238-dab03330-1c99-4ebb-9d27-378023f69967.PNG)
+
+![backendDir1](https://user-images.githubusercontent.com/56694905/130331234-b5fbe246-e229-44a3-bf46-cd630a2bf362.PNG)
+
+![backendDir2](https://user-images.githubusercontent.com/56694905/130331239-a7479dc5-bd26-4777-bf7f-f1073b59909d.PNG)
+
+                          
+
